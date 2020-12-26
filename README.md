@@ -1,6 +1,6 @@
 # Index of Files here
-- Hellbat's List
-  Autumn Begonia Source Index - Meihua now translate shit for me
+- Roniius' List
+  Autumn Begonia Source Index 
   Roniius's Archive (Catboy Archive)
   Norman Smith - Intoxicating Manchuria: Alcohol, Opium, and Culture in China’s Northeast
   Norman Smith - Empire and Environment in the Making of Manchuria
@@ -40,10 +40,10 @@
   Donald A. Jordan - The Winning Over of the Big Warlords: Feng and Yan 
   Elizabeth J. Perry - Shanghai On Strike: The Politics of Chinese Labor
   Eugenia Lean - Public Passions: The Trial of Shi Jianqio and the Rise of Popular Sympathy in Republican China
-  Frank Carmel Dikötter - Sex, Culture and Modernity in China: Medical Sciences and the Construction of Sexual Identities in the Early Republican Period
+  Frank Dikötter - Sex, Culture and Modernity in China: Medical Sciences and the Construction of Sexual Identities in the Early Republican Period
   Frederic Wakeman Jr. - The Shanghai Badlands: Wartime terrorism and urban crime, 1937-1941
   Frederic Wakeman Jr. - Spymaster: Dai Li and the Chinese Secret Service
-  Ivan Sablin(wtf blessed?) - Governing Post-Imperial Siberia and Mongolia, 1911-1924 - Buddhism, Socialism and Nationalism in State and Autonomy Building
+  Ivan Sablin - Governing Post-Imperial Siberia and Mongolia, 1911-1924 - Buddhism, Socialism and Nationalism in State and Autonomy Building
   Hiroshi Futaki - A Re-examination of the Establishment of the Mongolian People's Party(MAN), Centring on Dogsom's Memoirs
   Robert B. Valliant - Inner Mongolia 1912, The Failure of Independance
   Robert B. Valliant - Japanese Involvement in Mongolian Independance Movements, 1912-1919
@@ -97,7 +97,7 @@
   Xiaoqun Xu - Chinese Professionals and the Republican State: The Rise of Professional Associations in Shanghai, 1912–1937
   Yudru Tsomu - Frontier Tibet: The Rise of a Political Strongman in Dergé in the Early Twentieth Century: The Story of Jagö Topden
   
-- Roniius' List
+- Hellbat's List
   Autumn Begonia Source Index 2
   Hellbat Archive
   Second Historical Archives of China - The Pictorial History of ROC Military Uniforms (Chinese) - [民国军服图志] 中国第二历史档案馆
