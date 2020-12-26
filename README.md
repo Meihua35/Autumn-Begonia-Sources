@@ -97,7 +97,6 @@
 -  Xiaoqun Xu - Chinese Professionals and the Republican State: The Rise of Professional Associations in Shanghai, 1912–1937<br />
 -  Yudru Tsomu - Frontier Tibet: The Rise of a Political Strongman in Dergé in the Early Twentieth Century: The Story of Jagö Topden<br />
 ---
-## Roniius' List<br />
 ###  Autumn Begonia Source Index 2<br />
 ###  Hellbat Archive<br />
 -  Second Historical Archives of China - The Pictorial History of ROC Military Uniforms (Chinese) - [民国军服图志] 中国第二历史档案馆<br />
