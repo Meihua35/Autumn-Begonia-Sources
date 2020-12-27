@@ -12,7 +12,7 @@
 -  Chen Jionming and the Federalist Movement<br />
 -  Biography of Xiong Kewu (Chinese) <br />
 -  Collection of Chen Jionming's Works (part 1 and 2) <br />
-### Note: In Google Drive only due to file size > 100 Mb
+###### Note: In Google Drive only due to file size > 100 Mb
 -  Craig Anthony Smith - Constructing Chinese Asianism: Intellectual Writings on East Asian Regionalism (1896-1924)<br />
 -  Tim Wright - Distant Thunder: The Regional Economies of Southwest China and the Impact of the Great Depression<br />
 -  Robert C. Allen - Wages, Prices, and Living Standards in China, 1738-1925: in Comparison with Europe, Japan and India<br />
