@@ -111,6 +111,8 @@
 -  Chen Jionming and the Federalist Movement<br />
 -  Biography of Xiong Kewu (Chinese) <br />
 -  Collection of Chen Jionming's Works (part 1 and 2) <br />
+-  James A. Millward - The Hui and the Chinese Border Wool Trade 1880-1937 <br />
+---
 ###### Note: In Google Drive only due to file size > 100 Mb
 -  Craig Anthony Smith - Constructing Chinese Asianism: Intellectual Writings on East Asian Regionalism (1896-1924)<br />
 -  Tim Wright - Distant Thunder: The Regional Economies of Southwest China and the Impact of the Great Depression<br />
@@ -154,4 +156,3 @@
 -  Clara Harris - Photography and Tibet<br />
 -  Andrew J. Grajdanzev - Manchuria: An Industrial Survey<br />
 -  Dmitry Petrov - An Unsuccessful Mission: The Short-Lived Alliance of the Soviet Union with Warlord Feng Yuxiang, 1925-1927
--  James A. Millward - The Hui and the Chinese Border Wool Trade 1880-1937
