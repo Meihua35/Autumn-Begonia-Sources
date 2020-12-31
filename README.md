@@ -1,6 +1,6 @@
 # Index
 ## Hellbat's List <br />
-###  Autumn Begonia Source Index - Meihua now translate shit for me <br />
+###  Autumn Begonia Source Index - 
 ###  Roniius's Archive (Catboy Archive) <br />
 -  Norman Smith - Intoxicating Manchuria: Alcohol, Opium, and Culture in China’s Northeast<br />
 -  Norman Smith - Empire and Environment in the Making of Manchuria<br />
@@ -40,10 +40,10 @@
 -  Donald A. Jordan - The Winning Over of the Big Warlords: Feng and Yan <br />
 -  Elizabeth J. Perry - Shanghai On Strike: The Politics of Chinese Labor<br />
 -  Eugenia Lean - Public Passions: The Trial of Shi Jianqio and the Rise of Popular Sympathy in Republican China<br />
--  Frank Carmel Dikötter - Sex, Culture and Modernity in China: Medical Sciences and the Construction of Sexual Identities in the Early Republican Period<br />
+-  Frank Dikötter - Sex, Culture and Modernity in China: Medical Sciences and the Construction of Sexual Identities in the Early Republican Period<br />
 -  Frederic Wakeman Jr. - The Shanghai Badlands: Wartime terrorism and urban crime, 1937-1941<br />
 -  Frederic Wakeman Jr. - Spymaster: Dai Li and the Chinese Secret Service<br />
--  Ivan Sablin(wtf blessed?) - Governing Post-Imperial Siberia and Mongolia, 1911-1924 - Buddhism, Socialism and Nationalism in State and Autonomy Building<br />
+-  Ivan Sablin - Governing Post-Imperial Siberia and Mongolia, 1911-1924 - Buddhism, Socialism and Nationalism in State and Autonomy Building<br />
 -  Hiroshi Futaki - A Re-examination of the Establishment of the Mongolian People's Party(MAN), Centring on Dogsom's Memoirs<br />
 -  Robert B. Valliant - Inner Mongolia 1912, The Failure of Independance<br />
 -  Robert B. Valliant - Japanese Involvement in Mongolian Independance Movements, 1912-1919<br />
@@ -154,3 +154,4 @@
 -  Clara Harris - Photography and Tibet<br />
 -  Andrew J. Grajdanzev - Manchuria: An Industrial Survey<br />
 -  Dmitry Petrov - An Unsuccessful Mission: The Short-Lived Alliance of the Soviet Union with Warlord Feng Yuxiang, 1925-1927
+-  James A. Millward - The Hui and the Chinese Border Wool Trade 1880-1937
