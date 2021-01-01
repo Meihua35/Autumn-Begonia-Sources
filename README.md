@@ -112,6 +112,7 @@
 -  Biography of Xiong Kewu (Chinese) <br />
 -  Collection of Chen Jionming's Works (part 1 and 2) <br />
 -  James A. Millward - The Hui and the Chinese Border Wool Trade 1880-1937 <br />
+-  Maria Turek - Return of the Good King <br />
 ---
 ###### Note: In Google Drive only due to file size > 100 Mb
 -  Craig Anthony Smith - Constructing Chinese Asianism: Intellectual Writings on East Asian Regionalism (1896-1924)<br />
