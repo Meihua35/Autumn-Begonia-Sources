@@ -17,7 +17,8 @@
 -  Diana Lary - The Kwangsi Clique in Kuomintang Politics, 1929-1936<br />
 -  Diana Lary - Communism and Ethnic Revolt: Some Notes on the Zhuang Peasant Movement in Kwangsi 1921-31<br />
 -  Wai-Chor So - The Kuomintang left in opposition, 1928-1931 : the leftist alternative in Chinese politics<br />
--  Hsi-hseng Chi - The Chinese Warlord System, 1916 to 1928
+-  Hsi-hseng Chi - The Chinese Warlord System, 1916 to 1928<br />
+-  Walter F. Willcox - The Population of China in 1910
 ---
 ###### Note: In Google Drive only due to file size > 100 Mb
 -  Craig Anthony Smith - Constructing Chinese Asianism: Intellectual Writings on East Asian Regionalism (1896-1924)<br />
