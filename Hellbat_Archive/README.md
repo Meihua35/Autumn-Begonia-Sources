@@ -1,4 +1,3 @@
-###  Autumn Begonia Source Index 2<br />
 ###  Hellbat Archive<br />
 -  Second Historical Archives of China - The Pictorial History of ROC Military Uniforms (Chinese) - [民国军服图志] 中国第二历史档案馆<br />
 -  Osprey - Chinese Civil War Armies 1911-49 (a tad outdated)<br />
@@ -9,9 +8,17 @@
 -  Peter Worthing - General He Yingqin: The Rise and Fall of Nationalist China<br />
 -  Paul Draper - Carsun Chang: A Moral Conservative in an Immoral Age<br />
 -  Yang Wu - Changing Faces in the Chinese Communist Revolution: Party Members and Organization Buildings in Two Jiaodong Counties, 1928-1949<br />
--  Chen Jionming and the Federalist Movement<br />
--  Biography of Xiong Kewu (Chinese) <br />
--  Collection of Chen Jionming's Works (part 1 and 2) <br />
+-  Leslie Chen - Chen Jionming and the Federalist Movement<br />
+-  Biography of Xiong Kewu (Chinese)<br />
+-  Collection of Chen Jionming's Works (part 1 and 2) (Chinese)<br />
+-  James A. Millward - The Hui and the Chinese Border Wool Trade 1880-1937<br />
+-  Maria Turek - Return of the Good King<br />
+-  J. C. S Hall - The Yunnan provincial faction, 1927-1937 (Monographs on Far Eastern history)<br />
+-  Diana Lary - The Kwangsi Clique in Kuomintang Politics, 1929-1936<br />
+-  Diana Lary - Communism and Ethnic Revolt: Some Notes on the Zhuang Peasant Movement in Kwangsi 1921-31<br />
+-  Wai-Chor So - The Kuomintang left in opposition, 1928-1931 : the leftist alternative in Chinese politics<br />
+-  Hsi-hseng Chi - The Chinese Warlord System, 1916 to 1928
+---
 ###### Note: In Google Drive only due to file size > 100 Mb
 -  Craig Anthony Smith - Constructing Chinese Asianism: Intellectual Writings on East Asian Regionalism (1896-1924)<br />
 -  Tim Wright - Distant Thunder: The Regional Economies of Southwest China and the Impact of the Great Depression<br />
