@@ -117,8 +117,14 @@
 -  Diana Lary - The Kwangsi Clique in Kuomintang Politics, 1929-1936<br />
 -  Diana Lary - Communism and Ethnic Revolt: Some Notes on the Zhuang Peasant Movement in Kwangsi 1921-31<br />
 -  Wai-Chor So - The Kuomintang left in opposition, 1928-1931 : the leftist alternative in Chinese politics<br />
--  Hsi-hseng Chi - The Chinese Warlord System, 1916 to 1928<br />
--  Walter F. Willcox - The Population of China in 1910
+-  Hsi-hseng Chi - The Chinese Warlord System, 1916 to 1928 (not the full book sadly)<br />
+-  Walter F. Willcox - The Population of China in 1910<br />
+-  Archibald John Little - Across Yunnan: A Journey of Surprises, 1910<br />
+-  Joseph W. Esherick and  Mary Backus Rankin - Chinese Local Elites and Patterns of Dominance (Studies on China)<br />
+-  C. Martin Wilbur - The Nationalist Revolution in China, 1923 -1928<br />
+-  Xiaoqun Xu - Chinese Professionals and the Republican State: The Rise of Professional Associations in Shanghai, 1912-1937<br />
+-  Rana Mitter - Modern China: A Very Short Introduction<br />
+-  Tjio Kayloe - The Unfinished Revolution: Sun Yat-Sen and the Struggle for Modern China (best biography on him, no propaganda)
 ---
 ###### Note: In Google Drive only due to file size > 100 Mb
 -  Craig Anthony Smith - Constructing Chinese Asianism: Intellectual Writings on East Asian Regionalism (1896-1924)<br />
