@@ -125,7 +125,7 @@
 -  Xiaoqun Xu - Chinese Professionals and the Republican State: The Rise of Professional Associations in Shanghai, 1912-1937<br />
 -  Rana Mitter - Modern China: A Very Short Introduction<br />
 -  Tjio Kayloe - The Unfinished Revolution: Sun Yat-Sen and the Struggle for Modern China (best biography on him, no propaganda)
----
+-  Chen Jiongming - Collection of Chen Jiongming's Writings (Part 1 and 2)
 ###### Note: In Google Drive only due to file size > 100 Mb
 -  Craig Anthony Smith - Constructing Chinese Asianism: Intellectual Writings on East Asian Regionalism (1896-1924)<br />
 -  Tim Wright - Distant Thunder: The Regional Economies of Southwest China and the Impact of the Great Depression<br />
