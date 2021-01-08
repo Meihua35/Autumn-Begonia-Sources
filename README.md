@@ -99,6 +99,10 @@
 ---
 ###  Autumn Begonia Source Index 2<br />
 ###  Hellbat Archive<br />
+-  F. R. Eldridge - Manchuria-The Race for New Resources
+-  Allan Rodgers - The Manchurian Iron and Steel Industry and Its Resource Base
+-  John R. Stewart - Manchuria as Japan's Economic Life-Line
+-  Robert Burnett Hall - The Geography of Manchuria
 -  Second Historical Archives of China - The Pictorial History of ROC Military Uniforms (Chinese) - [民国军服图志] 中国第二历史档案馆<br />
 -  Osprey - Chinese Civil War Armies 1911-49 (a tad outdated)<br />
 -  Kingsley Tsang - Ancient Fortifications , Modern Firepower, and Warlord Politics: A Study on the Siege of Xi'a n and it s Historical Significance<br />
