@@ -43,6 +43,7 @@
 -  Bruce A. Elleman - Modern Chinese Warfare, 1795-1989<br />
 -  Bruce A. Elleman - Wilson and China: A Revised History of the Shandong Question: A Revised History of the Shandong Question<br />
 -  Man Bun Kwan - The Salt Merchants of Tianjin: State Making and Civil Society in Late Imperial China<br />
+-  Hu Shih - English Writings of Hu Shih (Volumes 1 to 3)<br />
 ----
 ###### Note: In Google Drive only due to file size > 100 Mb
 -  Craig Anthony Smith - Constructing Chinese Asianism: Intellectual Writings on East Asian Regionalism (1896-1924)<br />

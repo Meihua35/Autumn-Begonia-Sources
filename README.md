@@ -51,7 +51,7 @@
 -  Eric T. Schluessel - History, identity, and mother-tongue education in Xinjiang<br />
 -  L. J. Newby - The Begs of Xinjiang: Between Two Worlds<br />
 -  Hanchao Lu - Beyond the Neon Lights: Everyday Shanghai in the Early Twentieth Century<br />
--  Pu Yi - The Last Manchu: The Autobiography of Hellbat Pu Yi, the Last Emperor of the Qing<br />
+-  Pu Yi - The Last Manchu: The Autobiography of Pu Yi, the Last Emperor of the Qing<br />
 -  Jacob Eyferth - De-Industrialization in the Chinese Countryside: Handicrafts and Development in Jiajiang (Szechuan), 1935 to 1978<br />
 -  James Reardon-Anderson - Chemical Industry in China, 1860-1949<br />
 -  Jay Taylor - The Generalissimo: Chiang Kai-Shek and the Struggle for Modern China<br />
@@ -142,6 +142,7 @@
 -  Bruce A. Elleman - Modern Chinese Warfare, 1795-1989<br />
 -  Bruce A. Elleman - Wilson and China: A Revised History of the Shandong Question: A Revised History of the Shandong Question<br />
 -  Man Bun Kwan - The Salt Merchants of Tianjin: State Making and Civil Society in Late Imperial China<br />
+-  Hu Shih - English Writings of Hu Shih (Volumes 1 to 3)<br />
 ----
 ###### Note: In Google Drive only due to file size > 100 Mb
 -  Craig Anthony Smith - Constructing Chinese Asianism: Intellectual Writings on East Asian Regionalism (1896-1924)<br />
