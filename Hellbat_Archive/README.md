@@ -1,3 +1,4 @@
+###  Autumn Begonia Source Index 2<br />
 ###  Hellbat Archive<br />
 -  F. R. Eldridge - Manchuria-The Race for New Resources
 -  Allan Rodgers - The Manchurian Iron and Steel Industry and Its Resource Base
@@ -5,11 +6,13 @@
 -  Robert Burnett Hall - The Geography of Manchuria
 -  Second Historical Archives of China - The Pictorial History of ROC Military Uniforms (Chinese) - [民国军服图志] 中国第二历史档案馆<br />
 -  Osprey - Chinese Civil War Armies 1911-49 (a tad outdated)<br />
+-  Osprey - The Chinese Army 1937–49<br />
 -  Kingsley Tsang - Ancient Fortifications , Modern Firepower, and Warlord Politics: A Study on the Siege of Xi'a n and it s Historical Significance<br />
 -  H.E. Richardson - Armenians in India and Tibet<br />
 -  Bioraphy of Feng Gouzhang (Chinese) - 冯国璋传<br />
 -  Wing-hong Lau - Cai Tingkai, the National Hero from Lingnan <br />
 -  Peter Worthing - General He Yingqin: The Rise and Fall of Nationalist China<br />
+-  Peter Worthing - Toward the Minjiu Incident: Militarist Conflict in Guizhou, 1911-1921<br />
 -  Paul Draper - Carsun Chang: A Moral Conservative in an Immoral Age<br />
 -  Yang Wu - Changing Faces in the Chinese Communist Revolution: Party Members and Organization Buildings in Two Jiaodong Counties, 1928-1949<br />
 -  Leslie Chen - Chen Jionming and the Federalist Movement<br />
@@ -28,8 +31,18 @@
 -  C. Martin Wilbur - The Nationalist Revolution in China, 1923 -1928<br />
 -  Xiaoqun Xu - Chinese Professionals and the Republican State: The Rise of Professional Associations in Shanghai, 1912-1937<br />
 -  Rana Mitter - Modern China: A Very Short Introduction<br />
--  Tjio Kayloe - The Unfinished Revolution: Sun Yat-Sen and the Struggle for Modern China (best biography on him, no propaganda)
--  Chen Jiongming - Collection of Chen Jiongming's Writings (Part 1 and 2)
+-  Tjio Kayloe - The Unfinished Revolution: Sun Yat-Sen and the Struggle for Modern China (best biography on him, no propaganda)<br />
+-  Chen Jiongming - Collection of Chen Jiongming's Writings (Part 1 and 2)<br />
+-  Steven J. Zaloga - Armored Trains<br />
+-  General History of the Northwest (Chinese)<br />
+-  Joseph W. Esherick - Chinese Local Elites and Patterns of Dominance<br />
+-  Anne Reinhardt - ‘Decolonisation’ on the Periphery: Liu Xiang and Shipping Rights Recovery at Chongqing, 1926–38<br />
+-  Arthur Waldron - From War to Nationalism: China's Turning Point, 1924-1925<br />
+-  Bruce Elleman and Stephen Kotkin - Manchurian Railways and the Opening of China: An International History<br />
+-  Bruce Elleman - Moscow and the Emergence of Communist Power in China, 1925-30 <br />
+-  Bruce A. Elleman - Modern Chinese Warfare, 1795-1989<br />
+-  Bruce A. Elleman - Wilson and China: A Revised History of the Shandong Question: A Revised History of the Shandong Question<br />
+-  Man Bun Kwan - The Salt Merchants of Tianjin: State Making and Civil Society in Late Imperial China<br />
 ----
 ###### Note: In Google Drive only due to file size > 100 Mb
 -  Craig Anthony Smith - Constructing Chinese Asianism: Intellectual Writings on East Asian Regionalism (1896-1924)<br />
