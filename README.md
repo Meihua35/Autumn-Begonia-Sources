@@ -99,6 +99,7 @@
 ---
 ###  Autumn Begonia Source Index 2<br />
 ###  Hellbat Archive<br />
+-  Michael J. West - Federal Frontiers: the Constitution of Hunan Province in 1920s Republic of China
 -  F. R. Eldridge - Manchuria-The Race for New Resources
 -  Allan Rodgers - The Manchurian Iron and Steel Industry and Its Resource Base
 -  John R. Stewart - Manchuria as Japan's Economic Life-Line
