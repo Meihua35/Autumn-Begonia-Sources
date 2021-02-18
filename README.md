@@ -99,11 +99,13 @@
 ---
 ###  Autumn Begonia Source Index 2<br />
 ###  Hellbat Archive<br />
--  Michael J. West - Federal Frontiers: the Constitution of Hunan Province in 1920s Republic of China
--  F. R. Eldridge - Manchuria-The Race for New Resources
--  Allan Rodgers - The Manchurian Iron and Steel Industry and Its Resource Base
--  John R. Stewart - Manchuria as Japan's Economic Life-Line
--  Robert Burnett Hall - The Geography of Manchuria
+-  Hsi-Sheng Ch'i - Warlord Politics in China 1916-1928<br />
+# Note: The files comes in chapters, denoted in the form "WPC-ch#n.pdf"
+-  Michael J. West - Federal Frontiers: the Constitution of Hunan Province in 1920s Republic of China<br />
+-  F. R. Eldridge - Manchuria - The Race for New Resources<br />
+-  Allan Rodgers - The Manchurian Iron and Steel Industry and Its Resource Base<br />
+-  John R. Stewart - Manchuria as Japan's Economic Life-Line<br />
+-  Robert Burnett Hall - The Geography of Manchuria<br />
 -  Second Historical Archives of China - The Pictorial History of ROC Military Uniforms (Chinese) - [民国军服图志] 中国第二历史档案馆<br />
 -  Osprey - Chinese Civil War Armies 1911-49 (a tad outdated)<br />
 -  Osprey - The Chinese Army 1937–49<br />
