@@ -99,6 +99,13 @@
 ---
 ###  Autumn Begonia Source Index 2<br />
 ###  Hellbat Archive<br />
+# Links:
+-  Qin Weiguo, Liu Wenjun, Military History of the Guangxi Clique: http://reader.epubee.com/books/mobile/63/63ba1e7d6473e911e8b49531b9f9a1dd/text00001.html<br />
+-  History of the Ma Families: http://www.quanben.io/n/xibeimajiajunfashi/list.html<br />
+-  Faces of Manchukuo: (満洲の面影) https://twitter.com/i/events/1119863639937171457<br />
+# Books:<br />
+-  SÖREN URBANSKY - Tokhtogo’s Mission Impossible Russia, China, and the Quasi-independence of Hulumbeir<br />
+-  Tibetan Buddhism in the Wang Shidai Tribe (Zh-Cn)<br />
 -  Hsi-Sheng Ch'i - Warlord Politics in China 1916-1928<br />
 # Note: The files comes in chapters, denoted in the form "WPC-ch#n.pdf"
 -  Michael J. West - Federal Frontiers: the Constitution of Hunan Province in 1920s Republic of China<br />
