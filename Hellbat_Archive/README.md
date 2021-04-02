@@ -8,7 +8,7 @@
 -  SÖREN URBANSKY - Tokhtogo’s Mission Impossible Russia, China, and the Quasi-independence of Hulumbeir<br />
 -  Tibetan Buddhism in the Wang Shidai Tribe (Zh-Cn)<br />
 -  Hsi-Sheng Ch'i - Warlord Politics in China 1916-1928<br />
-# Note: The files comes in chapters, denoted in the form "WPC-ch#n.pdf"
+##### Note: The files comes in chapters, denoted in the form "WPC-ch#n.pdf"
 -  Michael J. West - Federal Frontiers: the Constitution of Hunan Province in 1920s Republic of China<br />
 -  F. R. Eldridge - Manchuria - The Race for New Resources<br />
 -  Allan Rodgers - The Manchurian Iron and Steel Industry and Its Resource Base<br />
