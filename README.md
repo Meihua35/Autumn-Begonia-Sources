@@ -197,3 +197,14 @@
 -  Clara Harris - Photography and Tibet<br />
 -  Andrew J. Grajdanzev - Manchuria: An Industrial Survey<br />
 -  Dmitry Petrov - An Unsuccessful Mission: The Short-Lived Alliance of the Soviet Union with Warlord Feng Yuxiang, 1925-1927
+
+###  Autumn Begonia Source Index 2<br />
+###  Migsey Archive<br />
+-  Chihyun Chang and Chiu-Ya Kao - Modern China’s financial obligations and strategies, 1901–1925: the depreciation of tael, the Austrian loans and the gold franc<br />
+-  Yeung Wing Yu，Hans - GUANGZHOU, 1800-1925: THE URBAN EVOLUTION OF A CHINESE PROVINCIAL CAPITAL<br />
+-  Ren Tianhao - Hu Weide and the Weak Diplomacy of the late Qing/Early Republican Period<br />
+-  Kubo Toro - The Shandong Economy in relation to Germany and Japan<br />
+-  Josef Fass - Sun Yat-Sen and Germany in 1921-1924<br />
+-  王學新 - The relationship between the Taiwan Governor's Office's cross-Strait policy and gang members<br />
+-  Allen Yuk-Lun Fang - The Struggle Over the Constitution: Chinese Politics 1917-1919 <br />
+-  任亞蘭 - Zang Zhiping and the First Taiwan Incident<br />
