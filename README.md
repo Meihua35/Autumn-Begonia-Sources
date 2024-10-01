@@ -208,6 +208,7 @@
 -  王學新 - The relationship between the Taiwan Governor's Office's cross-Strait policy and gang members<br />
 -  Allen Yuk-Lun Fang - The Struggle Over the Constitution: Chinese Politics 1917-1919 <br />
 -  任亞蘭 - Zang Zhiping and the First Taiwan Incident<br />
+-  Wei Hongkong - The Commoner General Lu Tao<br />
 -  John D. Sislin - Chemical warfare in the interwar period: insights for thepresent?<br />
 
 ##   Book Links<br />
