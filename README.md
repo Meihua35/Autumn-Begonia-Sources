@@ -210,6 +210,7 @@
 -  任亞蘭 - Zang Zhiping and the First Taiwan Incident<br />
 -  Wei Hongkong - The Commoner General Lu Tao<br />
 -  John D. Sislin - Chemical warfare in the interwar period: insights for thepresent?<br />
+-  Xiong Zongren - The Biography of He Yingqin<br />
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC <br />
