@@ -213,6 +213,7 @@
 -  Xiong Zongren - The Biography of He Yingqin<br />
 -  Liao Baifang - The Aftermath of Mengjiang 1928<br />
 -  Xu Shuzheng - Jianguo Chuanzhen / Founding The Republic of China 1921 <br />
+-  Zeng Yujun (edited by Cai Dengden)  - Duan Qirui's important counselor - Memoirs of Zeng Yujun, attached with "The Secret History of Duan Qirui"<br />
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC <br />
