@@ -215,6 +215,7 @@
 -  Xu Shuzheng - Jianguo Chuanzhen / Founding The Republic of China 1921 <br />
 -  Zeng Yujun (edited by Cai Dengden)  - Duan Qirui's important counselor - Memoirs of Zeng Yujun, attached with "The Secret History of Duan Qirui"<br />
 -  Chen Huifen - The Guangdong Provincial Assembly during the Guangxi Clique's rule of Guangdong in the early Republic of China 2011 <br />
+-  Peng Yi-Cong - Chiang Kai-shek and Disputes between the Princelings Clique and the Elders Clique in the Guomindang, 1923-1924<br />
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC <br />
