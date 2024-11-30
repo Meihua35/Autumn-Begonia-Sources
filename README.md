@@ -218,6 +218,7 @@
 -  Wang Bin - Commentary on the Hunan-Hubei War <br />
 -  Chen Changhe and Yin Hua - Viewing the Jiangsu-Zhejiang War in 1924 from the archive s<br />
 -  Peng Yi-Cong - Chiang Kai-shek and Disputes between the Princelings Clique and the Elders Clique in the Guomindang, 1923-1924<br />
+-  Baarbar - Tweentieth Century Mongolia <br />
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC <br />
