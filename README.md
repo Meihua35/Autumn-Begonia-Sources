@@ -220,6 +220,7 @@
 -  Peng Yi-Cong - Chiang Kai-shek and Disputes between the Princelings Clique and the Elders Clique in the Guomindang, 1923-1924<br />
 -  Baarbar - Tweentieth Century Mongolia <br />
 -  Mo Xiong -Memoirs <br />
+-  Tong Shizhang - Biography of Gu Zhenglun <br />
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC <br />
