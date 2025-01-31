@@ -226,6 +226,7 @@
 -  Xu Shuzheng - Telegrams by Xu Shuzheng - Note, you need to download and extract all the files together to read full book.<br />
 -  Edited by Central History Publishing House - Xu Shuzheng's Ancedotes <br />
 -  Ye Huifen - The convening of the meeting between Xu Shuzheng and the Tianjin Governor<br />
+-  Xie Bin - The History of Political Parties in the ROC <br />
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC <br />
