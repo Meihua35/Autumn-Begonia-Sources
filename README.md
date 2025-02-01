@@ -227,6 +227,7 @@
 -  Edited by Central History Publishing House - Xu Shuzheng's Ancedotes <br />
 -  Ye Huifen - The convening of the meeting between Xu Shuzheng and the Tianjin Governor<br />
 -  Xie Bin - The History of Political Parties in the ROC <br />
+-  Guangdong Provincial History Committee - Archive of Guangdong Cultural and Historical Materials 2005<br />
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC <br />
