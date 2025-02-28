@@ -229,7 +229,8 @@
 -  Xie Bin - The History of Political Parties in the ROC <br />
 -  Guangdong Provincial History Committee - Archive of Guangdong Cultural and Historical Materials 2005<br />
 -  Jingzhi Library - The Complete Biography of Qi Xieyuan - published in 1925 <br />
--  Guilin Literature and History Committee - Recalling Ma Junwu <br />
+-  Guilin CPPCC Literature and History Committee - Recalling Ma Junwu <br />
+-  Guilin CPPCC Literature and History Committee - Guilin Historical and Cultural Materials Volume 2 - Shen-Lu War's Siege of Guilin info <br />
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC <br />
