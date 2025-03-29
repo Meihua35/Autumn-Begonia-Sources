@@ -231,6 +231,7 @@
 -  Jingzhi Library - The Complete Biography of Qi Xieyuan - published in 1925 <br />
 -  Guilin CPPCC Literature and History Committee - Recalling Ma Junwu <br />
 -  Guilin CPPCC Literature and History Committee - Guilin Historical and Cultural Materials Volume 2 - Shen-Lu War's Siege of Guilin info <br />
+-  Chen Yuhuan - Baoding Military Academy Generals and Commanders - Note, you need to download and extract all the files together to read full book. <br />
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC <br />
