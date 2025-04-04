@@ -243,3 +243,4 @@
 - https://www.whcbs.com/Upload/BookReadFile/202002/3342c36349d14537a274a048f0fe2a8b/ops/chapter001.html - 武汉近代史料丛书——武汉民国初期史料 Wuhan Historical Materials in the Early Republic of China - Navigate by changing chapter number in url. Also replace chapter with front in url for preface information.
 - [http://lzzx.liuzhou.gov.cn/liuzhouwenshi/wenshi_liuzhou/201701/P020170111681331259694.pdf](https://web.archive.org/web/20250131031030/http://lzzx.liuzhou.gov.cn/liuzhouwenshi/wenshi_liuzhou/201701/P020170111681331259694.pdf) - Guangxi's 1921 Coup - Liang Zhenhai - Extremely detailed history of Liuzhou in the Guangxi Age of Heroes<br />
 - http://220.173.61.122:8017/book/newsShow.aspx?EN=gxlzfz&book_id=01192202_038&ppage_num=89 - Liujiang Historical and Literary Materials (Guangxi) <br />
+- https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/SSID/undated/04 - Directory of Primary Sources and Historical Materials available on Wikimedia Commons.
