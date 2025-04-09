@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f68d289c-df7c-4654-95d1-5f6d9614f4b5)# Index
+# Index
 ## Hellbat's List <br />
 ###  Autumn Begonia Source Index - 
 ###  Roniius's Archive (Catboy Archive) <br />
@@ -246,3 +246,7 @@
 - [http://lzzx.liuzhou.gov.cn/liuzhouwenshi/wenshi_liuzhou/201701/P020170111681331259694.pdf](https://web.archive.org/web/20250131031030/http://lzzx.liuzhou.gov.cn/liuzhouwenshi/wenshi_liuzhou/201701/P020170111681331259694.pdf) - Guangxi's 1921 Coup - Liang Zhenhai - Extremely detailed history of Liuzhou in the Guangxi Age of Heroes<br />
 - http://220.173.61.122:8017/book/newsShow.aspx?EN=gxlzfz&book_id=01192202_038&ppage_num=89 - Liujiang Historical and Literary Materials (Guangxi) <br />
 - https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/SSID/undated/04 - Directory of Primary Sources and Historical Materials available on Wikimedia Commons.
+- https://dl.ndl.go.jp/pid/1912109 - ROC Staff Record 1919 Part 1
+- https://dl.ndl.go.jp/pid/1912132 - ROC Staff Record 1919 Part 2
+- https://dl.ndl.go.jp/pid/1912146 - ROC Staff Record 1919 Part 3 (includes provincial maps)
+- https://dl.ndl.go.jp/pid/1912169 - ROC Staff Record 1919 Part 4 (includes provincial maps)
