@@ -234,6 +234,7 @@
 -  Chen Yuhuan - Baoding Military Academy Generals and Commanders - Note, you need to download and extract all the files together to read full book. <br />
 -  Chen Yuhuan - Biographies of Guangdong Generals <br />
 -  Yu Yanguang and Chen Fulin - South Guangdong Separatist Regimes <br />
+-  Nanhai Yinzi (puesdonym for an unknown Guangdong officer) - Anfu Huoguoji (How The Anfu Clique Brought Disaster To The Country) - originally published in 1920 <br />
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC <br />
@@ -251,4 +252,4 @@
 - https://dl.ndl.go.jp/pid/1912132 - ROC Staff Record 1919 Part 2
 - https://dl.ndl.go.jp/pid/1912146 - ROC Staff Record 1919 Part 3 (includes provincial maps)
 - https://dl.ndl.go.jp/pid/1912169 - ROC Staff Record 1919 Part 4 (includes provincial maps)
-- 
+- https://upload.wikimedia.org/wikipedia/commons/c/c5/SSID-10485081_%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A%E7%BA%8C%E8%BC%AF_532_%E5%8F%83%E8%AD%B0%E9%99%A2%E5%85%AC%E5%A0%B1_%E6%B0%91%E5%9C%8B%E4%B8%83%E5%B9%B4%E4%B9%9D%C2%B7%E5%8D%81%E6%9C%88%E7%AC%AC1%E6%9C%9F%E7%AC%AC1%C2%B72%E5%86%8A_1.pdf - Senate Gazette (Primary Source)
