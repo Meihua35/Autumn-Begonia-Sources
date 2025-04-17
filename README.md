@@ -237,7 +237,7 @@
 -  Nanhai Yinzi (puesdonym for an unknown Guangdong officer) - Anfu Huoguoji (How The Anfu Clique Brought Disaster To The Country) - originally published in 1920 <br />
 
 ##   Book Links<br />
-- http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC <br />
+- http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC (Historical fiction I think but I dont know which parts are ahistorical)<br />
 - https://www.99csw.com/book/10269/index.htm - Li Zongren <br />
 - http://jds.cass.cn/xsqk/jdszl/qwty_128770/ - Modern Historical Materials - A huge archive of primary sources; letters, telegrams, memoirs etc. <br />
 - https://archive.org/details/10481261_qq/mode/2up - 文史资料选辑总目录 General Catalogue of Selected Literature and History Materials - Catalogue of what issue of the book series contains, use this to find which volume you need. <br />
