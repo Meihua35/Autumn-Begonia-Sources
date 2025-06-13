@@ -235,6 +235,7 @@
 -  Chen Yuhuan - Biographies of Guangdong Generals <br />
 -  Yu Yanguang and Chen Fulin - South Guangdong Separatist Regimes <br />
 -  Nanhai Yinzi (puesdonym for an unknown Guangdong officer) - Anfu Huoguoji (How The Anfu Clique Brought Disaster To The Country) - originally published in 1920 <br />
+-  Yang Kuisong - The Guomindang's "Cooperation With the CPC" and "Anti-Communism"
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC (Historical fiction I think but I dont know which parts are ahistorical)<br />
