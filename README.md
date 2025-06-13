@@ -255,3 +255,10 @@
 - https://dl.ndl.go.jp/pid/1912169 - ROC Staff Record 1919 Part 4 (includes provincial maps)
 - https://upload.wikimedia.org/wikipedia/commons/c/c5/SSID-10485081_%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A%E7%BA%8C%E8%BC%AF_532_%E5%8F%83%E8%AD%B0%E9%99%A2%E5%85%AC%E5%A0%B1_%E6%B0%91%E5%9C%8B%E4%B8%83%E5%B9%B4%E4%B9%9D%C2%B7%E5%8D%81%E6%9C%88%E7%AC%AC1%E6%9C%9F%E7%AC%AC1%C2%B72%E5%86%8A_1.pdf - Senate Gazette (Primary Source)
 - https://archive.org/details/searchformodernn0000wong/page/n3/mode/2up - Zhang Binglin/Taiyan Book
+  
+##    Articles without Links<br />
+- Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64
+- Shirley, J. R. (1965). Control of the Kuomintang After Sun Yat-sen’s Death. The Journal of Asian Studies, 25(1), 69–82
+- GILLESPIE, R. E. (1971). Whampoa And The Nanking Decade (1924-1936) (Order No. 7201718)
+- LAI, J.-H. (1976). A STUDY OF A FALTERING DEMOCRAT: THE LIFE OF SUN FO, 1891-1949
+- W. C. [蘇維初]. (1981). The Western Hills Group in the National Revolution, 1924-1928 : a study of ideology and politics within the Kuomintang. (Thesis). University of Hong Kong, Pokfulam, Hong Kong SAR
