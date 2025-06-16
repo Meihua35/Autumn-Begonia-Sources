@@ -223,6 +223,7 @@
 -  Tong Shizhang - Biography of Gu Zhenglun <br />
 -  Xu Daolin - Chronicle of Xu Shuzheng<br />
 -  Various Authors (secondary and primary writers) - Selected Historical and Literary Materials - Note, you need to download and extract all the files together to read full book. <br />
+-  Various Authors (secondary and primary writers) - Selected Historical and Literary Materials on the Eastern Expeditions and Northern Expeditions<br /> 
 -  Xu Shuzheng - Telegrams by Xu Shuzheng - Note, you need to download and extract all the files together to read full book.<br />
 -  Edited by Central History Publishing House - Xu Shuzheng's Ancedotes <br />
 -  Ye Huifen - The convening of the meeting between Xu Shuzheng and the Tianjin Governor<br />
