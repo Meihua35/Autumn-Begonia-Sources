@@ -239,6 +239,19 @@
 -  Yang Kuisong - The Guomindang's "Cooperation With the CPC" and "Anti-Communism" <br />
 -  Xiao Dingji - Huang Mingtang, Hero of the 1911 Revolution <br />
 -  Tang Qiwang - Qinzhou History and Literature Volume 7 <br />
+-  Fang Jie - Rise and Fall of the SS Zhongshan<br />
+-  Liu Ai - The Yongfeng Class Warships<br />
+-  Tang Ruixiang - Sun Zhongshan and the SS Yongfeng<br />
+-  Liu Baofu - Merits and Demerits of Former Admiral Wen Shude<br />
+-  Zhao Yanling - On Public Opinion of Guangzhou Republic of China Daily—During Sun Yat-sen’s Northern Expedition in 1924<br />
+-  Sun Hongyun - The Problem of Jiangxi Situation in the Political Dispute between Sun and Duan after the Second Zhili-Fengtian War<br />
+-  Yan Xingwen - A Brief Discussion on Sun Yat-sen's Northern Expedition in the Autumn of 1924<br />
+-  Zhao Yanling - On the Local Society in Northern Guangdong During Sun Yat-sen’s Northern Expedition<br />
+-  Tan Qunyu and Cao Tianzhong - Sun Yat-Sen's Punitive Expeditions against Chen Jiongming and the Beginning of the Northern Expedition<br />
+-  Wang Xiancheng - On Sun Yat-sen’s Military Strategies Against the Chen Jiongming Group<br />
+-  Li Xingguo - Evolution in the Relationship between Gu Yingfen and Sun Yat-sen between 1922-1923_Li Xingguo<br />
+-  Wang Xiancheng - Study on the Relationship Between Sun Zhong -shan and the Army of the Yunnan garrison in Guangdong<br />
+
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC (Historical fiction I think but I dont know which parts are ahistorical)<br />
