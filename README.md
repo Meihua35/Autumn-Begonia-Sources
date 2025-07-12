@@ -279,3 +279,12 @@
 - GILLESPIE, R. E. (1971). Whampoa And The Nanking Decade (1924-1936) (Order No. 7201718)
 - LAI, J.-H. (1976). A STUDY OF A FALTERING DEMOCRAT: THE LIFE OF SUN FO, 1891-1949
 - W. C. [蘇維初]. (1981). The Western Hills Group in the National Revolution, 1924-1928 : a study of ideology and politics within the Kuomintang. (Thesis). University of Hong Kong, Pokfulam, Hong Kong SAR
+- The Bolsheviks and the Chinese Revolution (Pantsov, 2000), p. 65-66
+- Minutes of the National Congress of the Chinese Guomindang 
+- The Nationalist Revolution in China, 1925-1928 (Wilbur, 1983), p. 18-19
+- The Inner History of the Chinese Revolution (Tang, 1930), p. 181-184
+- A Study of Xin Qingnian (New Youth) Magazine, 1915-1926 (Ma, 1974), p. 165-208
+- The "Pro" and "Anti" Communism of the Guomindang (Yang, 2016)
+- The Struggle Against the Right Wing of the Guomindang (Mao, 1924)
+- Chen Duxiu's "Revolutionary Romanticism" and the Dilemmas of the "Great Revolution" (1924-1927) (Fu, 2006), p. 43-61
+- An Unofficial History of the Revolution (Feng, 1948)
