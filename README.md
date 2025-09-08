@@ -251,7 +251,18 @@
 -  Wang Xiancheng - On Sun Yat-sen’s Military Strategies Against the Chen Jiongming Group<br />
 -  Li Xingguo - Evolution in the Relationship between Gu Yingfen and Sun Yat-sen between 1922-1923_Li Xingguo<br />
 -  Wang Xiancheng - Study on the Relationship Between Sun Zhong -shan and the Army of the Yunnan garrison in Guangdong<br />
-
+-  Luo Xi - The Research on the Preparation of the National Representative Conference in 1925<br />
+-  Li Yuan - The Response and Enlightenment to Sun Yat-sen's National Assembly Propositions —An Examination of Press and Public Opinion from 1924 to 1925 <br />
+-  Yang Yanfei - A Study of China's Constitutional Reform in 1925<br />
+-  Yang Tianhong - The Beiyang government's attempt to peacefully unify China Re-study of the post-war conference<br />
+-  Yang Tianhong - An Analysis of the Relationship between the Kuomintang and the Post-war Conference <br />
+-  Wu Yuankang - Examination of Kuomintang members who attended the post-war meeting <br />
+-  Pu Shenghua - The Ninth Panchen Lamas' Call for Peace in the Beiyang Government Era <br />
+-  Li Wei - Lin Hu's Biography <br />
+-  Lin Jinghua - The Biography of General Lin Hu <br />
+-  Li Zhenwu - A Brief Study on the Period of Lu Xiaochen and Others' Tenure <br />
+-  Wang Chunliang and Li Rong - A Brief Discussion on Tsarist Russia's Invasion of China's Tannu Uriankhai <br />
+-  Fan Mingfang - Research on the History of Tannu Uriankhai <br />
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC (Historical fiction I think but I dont know which parts are ahistorical)<br />
@@ -274,7 +285,7 @@
 - https://www.mh.sinica.edu.tw/MHDocument/PublicationDetail/PublicationDetail_1402.pdf - Between Left and Right, The Kuomintang and Guangdong merchants after the reorganization of tolerance of the Communist Party, 1924-1925<br />
 - http://59.46.86.120:9002/maoxuan/wenxian/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2%E6%95%99%E5%AD%A6%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99%20%E7%AC%AC13%E5%86%8C.pdf - Reference Materials for Teaching the History of the Communist Party of China, Volume 13
   
-##    Articles without Links<br />
+##    Books/Articles without Links<br />
 - Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64
 - Shirley, J. R. (1965). Control of the Kuomintang After Sun Yat-sen’s Death. The Journal of Asian Studies, 25(1), 69–82
 - GILLESPIE, R. E. (1971). Whampoa And The Nanking Decade (1924-1936) (Order No. 7201718)
@@ -289,3 +300,10 @@
 - The Struggle Against the Right Wing of the Guomindang (Mao, 1924)
 - Chen Duxiu's "Revolutionary Romanticism" and the Dilemmas of the "Great Revolution" (1924-1927) (Fu, 2006), p. 43-61
 - An Unofficial History of the Revolution (Feng, 1948)
+- Chen Yuhuan 陈予欢 - 云南讲武堂将帅录 Records of Generals and Commanders of Yunnan Military Academy
+- Chen Yuhuan - 中国留学日本 陆军士官学校将帅录 Chinese Studying in Japan, Records of Generals and Commanders of Army Officer Academy (IJAA)
+- Chen Yuhuan - Records of Generals and Commander of the Army University
+- Chen Yuhuan - The Huangpu Military Academy
+- David Peter Barrett - SOCIALISM, MARXISM AND COMMUNISM IN THE THOUGHT OF HU HAN-MIN (1978)
+- Lau Yee Cheung - Hu Han-min AS cholar-Revolutionary in Contemporary China (1978)
+- Brian Kai Hin Tsui  - China’s Forgotten Revolution: Radical Conservatism in Action, 1927-1949 (2013)
