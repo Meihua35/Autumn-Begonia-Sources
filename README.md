@@ -263,6 +263,7 @@
 -  Li Zhenwu - A Brief Study on the Period of Lu Xiaochen and Others' Tenure <br />
 -  Wang Chunliang and Li Rong - A Brief Discussion on Tsarist Russia's Invasion of China's Tannu Uriankhai <br />
 -  Fan Mingfang - Research on the History of Tannu Uriankhai <br />
+-  Deng Tongli - Research on the Admiralty in the early Republic of China (1912-1919)<br />
 
 ##   Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC (Historical fiction I think but I dont know which parts are ahistorical)<br />
