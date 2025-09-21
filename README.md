@@ -265,7 +265,7 @@
 -  Fan Mingfang - Research on the History of Tannu Uriankhai <br />
 -  Deng Tongli - Research on the Admiralty in the early Republic of China (1912-1919)<br />
 
-##   Book Links<br />
+##   Article/Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC (Historical fiction I think but I dont know which parts are ahistorical)<br />
 - https://www.arteducation.com.tw/guwen/book_301.html - Draft History of the Qing (Official ROC account of the Qing, chief editor Zhao Erxun) <br />
 - https://www.99csw.com/book/10269/index.htm - Li Zongren <br />
@@ -286,6 +286,7 @@
 - https://archive.org/details/searchformodernn0000wong/page/n3/mode/2up - Zhang Binglin/Taiyan Book
 - https://www.mh.sinica.edu.tw/MHDocument/PublicationDetail/PublicationDetail_1402.pdf - Between Left and Right, The Kuomintang and Guangdong merchants after the reorganization of tolerance of the Communist Party, 1924-1925<br />
 - http://59.46.86.120:9002/maoxuan/wenxian/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2%E6%95%99%E5%AD%A6%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99%20%E7%AC%AC13%E5%86%8C.pdf - Reference Materials for Teaching the History of the Communist Party of China, Volume 13
+- https://www.davidpublisher.com/Public/uploads/Contribute/6551944c254d9.pdf - The Economic Factors of Utilizing the Salt of Sichuan to Purvey Chu and the War of Aid to Hubei - Zhang Yiwen
   
 ##    Books/Articles without Links<br />
 - Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64
