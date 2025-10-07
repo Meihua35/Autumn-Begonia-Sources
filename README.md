@@ -308,5 +308,6 @@
 - Chen Yuhuan - Records of Generals and Commander of the Army University
 - Chen Yuhuan - The Huangpu Military Academy
 - David Peter Barrett - SOCIALISM, MARXISM AND COMMUNISM IN THE THOUGHT OF HU HAN-MIN (1978)
+- Ma Pihuan and Liao Jiling - Records of the Old Guangxi Clique 老桂系纪实 (Primary Accounts)
 - Lau Yee Cheung - Hu Han-min AS cholar-Revolutionary in Contemporary China (1978)
 - Brian Kai Hin Tsui  - China’s Forgotten Revolution: Radical Conservatism in Action, 1927-1949 (2013)
