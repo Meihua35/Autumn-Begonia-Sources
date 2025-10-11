@@ -288,6 +288,7 @@
 - https://www.mh.sinica.edu.tw/MHDocument/PublicationDetail/PublicationDetail_1402.pdf - Between Left and Right, The Kuomintang and Guangdong merchants after the reorganization of tolerance of the Communist Party, 1924-1925<br />
 - http://59.46.86.120:9002/maoxuan/wenxian/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2%E6%95%99%E5%AD%A6%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99%20%E7%AC%AC13%E5%86%8C.pdf - Reference Materials for Teaching the History of the Communist Party of China, Volume 13
 - https://www.davidpublisher.com/Public/uploads/Contribute/6551944c254d9.pdf - The Economic Factors of Utilizing the Salt of Sichuan to Purvey Chu and the War of Aid to Hubei - Zhang Yiwen
+- https://pahar.in/pahar/Books%20and%20Articles/Tibet%20and%20China/1936%20Flight%20of%20Big%20Horse%20by%20Hedin%20s.pdf - The flight of Big Horse - Sven Hedin 1936
   
 ##    Books/Articles without Links<br />
 - Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64
