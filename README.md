@@ -290,7 +290,8 @@
 - https://www.davidpublisher.com/Public/uploads/Contribute/6551944c254d9.pdf - The Economic Factors of Utilizing the Salt of Sichuan to Purvey Chu and the War of Aid to Hubei - Zhang Yiwen
 - https://pahar.in/pahar/Books%20and%20Articles/Tibet%20and%20China/1936%20Flight%20of%20Big%20Horse%20by%20Hedin%20s.pdf - The flight of Big Horse - Sven Hedin 1936
 - https://upload.wikimedia.org/wikipedia/commons/e/e5/SSID-10484176_%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A%E7%B7%A8%E8%BC%AF_44_%E8%BE%9B%E4%BA%A5%E4%BB%A5%E5%BE%8C%E5%8D%81%E4%B8%83%E5%B9%B4%E8%81%B7%E5%AE%98%E5%B9%B4%E8%A1%A8.pdf = Chronology of government officials in the 17 years after Xinhai
-- https://www.wenxuecity.com/book/?act=chapter&bookID=60533730 - The General History of Jiangxi - Volume 11 - The Republic of China Period - Zhong Qihuang
+- https://www.wenxuecity.com/book/?act=chapter&bookID=60533730 - The General History of Jiangxi - Volume 11 - The Republic of China Period - Zhong Qihuang 
+- https://repository.lib.cuhk.edu.hk/en/item/cuhk-3584283 - Method in madness, hope in despair: planism and the east asian social engineering state - a general survey, 1906-1960 - Ernest Leung
   
 ##    Books/Articles without Links<br />
 - Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64
