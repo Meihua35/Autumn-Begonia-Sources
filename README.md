@@ -265,6 +265,7 @@
 -  Fan Mingfang - Research on the History of Tannu Uriankhai <br />
 -  Deng Tongli - Research on the Admiralty in the early Republic of China (1912-1919)<br />
 -  Wu Yongyun - The Guangxi Comrades' Association for the Reform of Guangxi and the Guangxi Militia Uprising  <br />
+-  Deng Hanxiang - What I know about Yuan Zuming's Assassination 袁祖铭被刺见闻 (primary) <br />
 
 ##   Article/Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC (Historical fiction I think but I dont know which parts are ahistorical)<br />
