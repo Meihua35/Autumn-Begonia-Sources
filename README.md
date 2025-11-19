@@ -301,6 +301,7 @@
 - https://upload.wikimedia.org/wikipedia/commons/e/e5/SSID-10484176_%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A%E7%B7%A8%E8%BC%AF_44_%E8%BE%9B%E4%BA%A5%E4%BB%A5%E5%BE%8C%E5%8D%81%E4%B8%83%E5%B9%B4%E8%81%B7%E5%AE%98%E5%B9%B4%E8%A1%A8.pdf = Chronology of government officials in the 17 years after Xinhai<br />
 - https://www.wenxuecity.com/book/?act=chapter&bookID=60533730 - The General History of Jiangxi - Volume 11 - The Republic of China Period - Zhong Qihuang <br />
 - https://repository.lib.cuhk.edu.hk/en/item/cuhk-3584283 - Method in madness, hope in despair: planism and the east asian social engineering state - a general survey, 1906-1960 - Ernest Leung<br />
+- http://www.xhgmw.com/m/view.php?aid=25443 - A Brief Account of Liao Xiangyun's Yanxi Uprising <br />
   
 ##    Books/Articles without Links<br />
 - Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64<br />
