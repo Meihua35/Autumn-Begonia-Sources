@@ -266,6 +266,14 @@
 -  Deng Tongli - Research on the Admiralty in the early Republic of China (1912-1919)<br />
 -  Wu Yongyun - The Guangxi Comrades' Association for the Reform of Guangxi and the Guangxi Militia Uprising  <br />
 -  Deng Hanxiang - What I know about Yuan Zuming's Assassination 袁祖铭被刺见闻 (primary) <br />
+# Hunan Province Sources
+- Various Authors - Changde Historical Materials Vol 2<br />
+- Hao Tianhao - Wu Peifu Withdrew the Defense Army and Zhang Jingyao's Reaction in 1920<br />
+- Hao Tianhao - Zhang Jingyao and Yuxiang Bank <br />
+- Jiang Xilong - Cohort Study of Hunan Merchants during the reign of Zhang Jingyao<br />
+- Wei Changhong - On The Life of Yang Zuanxu<br />
+- Xu Lianchu - The May Fourth Movement in Hunan<br />
+- He Wenping - On The Death of Zhou Zefan <br />
 
 ##   Article/Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC (Historical fiction I think but I dont know which parts are ahistorical)<br />
@@ -275,45 +283,46 @@
 - https://archive.org/details/10481261_qq/mode/2up - 文史资料选辑总目录 General Catalogue of Selected Literature and History Materials - Catalogue of what issue of the book series contains, use this to find which volume you need. <br />
 - https://archive.org/details/pekingpolitics190000nath/page/n5/mode/2up - Peking Politics - Andrew J Nathan <br />
 - https://drive.google.com/file/d/1m8_jIlLQ8CDmCQZj7f7QbDBJ_kVUfDI1/view - Factionalism in Early Republican China - Andrew J Nathan <br />
-- http://chuankuan.com.cn:5244/3.%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/4.%E5%AD%A6%E4%B9%A0%E7%B1%BB/%E5%90%84%E7%9C%81%E5%B8%82%E6%96%87%E5%8F%B2%20%E8%B5%84%E6%96%99%E8%BE%91/%E5%B9%BF%E8%A5%BF%E6%96%87%E5%8F%B2%E8%B5%84%E6%96%99/%E5%B9%BF%E8%A5%BF%E6%96%87%E5%8F%B2%E8%B5%84%E6%96%99%E9%80%89%E8%BE%91%20%20%E7%AC%AC01%E8%BE%91.pdf - Selected Literature and History Materials of Guangxi Volume 1
-- https://www.whcbs.com/Upload/BookReadFile/202002/3342c36349d14537a274a048f0fe2a8b/ops/chapter001.html - 武汉近代史料丛书——武汉民国初期史料 Wuhan Historical Materials in the Early Republic of China - Navigate by changing chapter number in url. Also replace chapter with front in url for preface information.
+- http://chuankuan.com.cn:5244/3.%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/4.%E5%AD%A6%E4%B9%A0%E7%B1%BB/%E5%90%84%E7%9C%81%E5%B8%82%E6%96%87%E5%8F%B2%20%E8%B5%84%E6%96%99%E8%BE%91/%E5%B9%BF%E8%A5%BF%E6%96%87%E5%8F%B2%E8%B5%84%E6%96%99/%E5%B9%BF%E8%A5%BF%E6%96%87%E5%8F%B2%E8%B5%84%E6%96%99%E9%80%89%E8%BE%91%20%20%E7%AC%AC01%E8%BE%91.pdf - Selected Literature and History Materials of Guangxi Volume 1<br />
+- https://www.whcbs.com/Upload/BookReadFile/202002/3342c36349d14537a274a048f0fe2a8b/ops/chapter001.html - 武汉近代史料丛书——武汉民国初期史料 Wuhan Historical Materials in the Early Republic of China - Navigate by changing chapter number in url. Also replace chapter with front in url for preface information.<br />
 - [http://lzzx.liuzhou.gov.cn/liuzhouwenshi/wenshi_liuzhou/201701/P020170111681331259694.pdf](https://web.archive.org/web/20250131031030/http://lzzx.liuzhou.gov.cn/liuzhouwenshi/wenshi_liuzhou/201701/P020170111681331259694.pdf) - Guangxi's 1921 Coup - Liang Zhenhai - Extremely detailed history of Liuzhou in the Guangxi Age of Heroes<br />
 - http://220.173.61.122:8017/book/newsShow.aspx?EN=gxlzfz&book_id=01192202_038&ppage_num=89 - Liujiang Historical and Literary Materials (Guangxi) <br />
 - https://commons.wikimedia.org/wiki/Commons:Library_back_up_project/file_list/SSID/undated/04 - Directory of Primary Sources and Historical Materials available on Wikimedia Commons.
-- https://dl.ndl.go.jp/pid/1912109 - ROC Staff Record 1919 Part 1
-- https://dl.ndl.go.jp/pid/1912132 - ROC Staff Record 1919 Part 2
-- https://dl.ndl.go.jp/pid/1912146 - ROC Staff Record 1919 Part 3 (includes provincial maps)
-- https://dl.ndl.go.jp/pid/1912169 - ROC Staff Record 1919 Part 4 (includes provincial maps)
-- https://upload.wikimedia.org/wikipedia/commons/c/c5/SSID-10485081_%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A%E7%BA%8C%E8%BC%AF_532_%E5%8F%83%E8%AD%B0%E9%99%A2%E5%85%AC%E5%A0%B1_%E6%B0%91%E5%9C%8B%E4%B8%83%E5%B9%B4%E4%B9%9D%C2%B7%E5%8D%81%E6%9C%88%E7%AC%AC1%E6%9C%9F%E7%AC%AC1%C2%B72%E5%86%8A_1.pdf - Senate Gazette (Primary Source)
-- https://archive.org/details/searchformodernn0000wong/page/n3/mode/2up - Zhang Binglin/Taiyan Book
+- https://dl.ndl.go.jp/pid/1912109 - ROC Staff Record 1919 Part 1<br />
+- https://dl.ndl.go.jp/pid/1912132 - ROC Staff Record 1919 Part 2<br />
+- https://dl.ndl.go.jp/pid/1912146 - ROC Staff Record 1919 Part 3 (includes provincial maps)<br />
+- https://dl.ndl.go.jp/pid/1912169 - ROC Staff Record 1919 Part 4 (includes provincial maps)<br />
+- https://upload.wikimedia.org/wikipedia/commons/c/c5/SSID-10485081_%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A%E7%BA%8C%E8%BC%AF_532_%E5%8F%83%E8%AD%B0%E9%99%A2%E5%85%AC%E5%A0%B1_%E6%B0%91%E5%9C%8B%E4%B8%83%E5%B9%B4%E4%B9%9D%C2%B7%E5%8D%81%E6%9C%88%E7%AC%AC1%E6%9C%9F%E7%AC%AC1%C2%B72%E5%86%8A_1.pdf - Senate Gazette (Primary Source)<br />
+- https://archive.org/details/searchformodernn0000wong/page/n3/mode/2up - Zhang Binglin/Taiyan Book<br />
 - https://www.mh.sinica.edu.tw/MHDocument/PublicationDetail/PublicationDetail_1402.pdf - Between Left and Right, The Kuomintang and Guangdong merchants after the reorganization of tolerance of the Communist Party, 1924-1925<br />
-- http://59.46.86.120:9002/maoxuan/wenxian/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2%E6%95%99%E5%AD%A6%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99%20%E7%AC%AC13%E5%86%8C.pdf - Reference Materials for Teaching the History of the Communist Party of China, Volume 13
-- https://www.davidpublisher.com/Public/uploads/Contribute/6551944c254d9.pdf - The Economic Factors of Utilizing the Salt of Sichuan to Purvey Chu and the War of Aid to Hubei - Zhang Yiwen
-- https://pahar.in/pahar/Books%20and%20Articles/Tibet%20and%20China/1936%20Flight%20of%20Big%20Horse%20by%20Hedin%20s.pdf - The flight of Big Horse - Sven Hedin 1936
-- https://upload.wikimedia.org/wikipedia/commons/e/e5/SSID-10484176_%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A%E7%B7%A8%E8%BC%AF_44_%E8%BE%9B%E4%BA%A5%E4%BB%A5%E5%BE%8C%E5%8D%81%E4%B8%83%E5%B9%B4%E8%81%B7%E5%AE%98%E5%B9%B4%E8%A1%A8.pdf = Chronology of government officials in the 17 years after Xinhai
-- https://www.wenxuecity.com/book/?act=chapter&bookID=60533730 - The General History of Jiangxi - Volume 11 - The Republic of China Period - Zhong Qihuang 
-- https://repository.lib.cuhk.edu.hk/en/item/cuhk-3584283 - Method in madness, hope in despair: planism and the east asian social engineering state - a general survey, 1906-1960 - Ernest Leung
+- http://59.46.86.120:9002/maoxuan/wenxian/%E4%B8%AD%E5%85%B1%E5%85%9A%E5%8F%B2%E6%95%99%E5%AD%A6%E5%8F%82%E8%80%83%E8%B5%84%E6%96%99%20%E7%AC%AC13%E5%86%8C.pdf - Reference Materials for Teaching the History of the Communist Party of China, Volume 13<br />
+- https://www.davidpublisher.com/Public/uploads/Contribute/6551944c254d9.pdf - The Economic Factors of Utilizing the Salt of Sichuan to Purvey Chu and the War of Aid to Hubei - Zhang Yiwen<br />
+- https://pahar.in/pahar/Books%20and%20Articles/Tibet%20and%20China/1936%20Flight%20of%20Big%20Horse%20by%20Hedin%20s.pdf - The flight of Big Horse - Sven Hedin 1936<br />
+- https://upload.wikimedia.org/wikipedia/commons/e/e5/SSID-10484176_%E8%BF%91%E4%BB%A3%E4%B8%AD%E5%9C%8B%E5%8F%B2%E6%96%99%E5%8F%A2%E5%88%8A%E7%B7%A8%E8%BC%AF_44_%E8%BE%9B%E4%BA%A5%E4%BB%A5%E5%BE%8C%E5%8D%81%E4%B8%83%E5%B9%B4%E8%81%B7%E5%AE%98%E5%B9%B4%E8%A1%A8.pdf = Chronology of government officials in the 17 years after Xinhai<br />
+- https://www.wenxuecity.com/book/?act=chapter&bookID=60533730 - The General History of Jiangxi - Volume 11 - The Republic of China Period - Zhong Qihuang <br />
+- https://repository.lib.cuhk.edu.hk/en/item/cuhk-3584283 - Method in madness, hope in despair: planism and the east asian social engineering state - a general survey, 1906-1960 - Ernest Leung<br />
   
 ##    Books/Articles without Links<br />
-- Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64
-- Shirley, J. R. (1965). Control of the Kuomintang After Sun Yat-sen’s Death. The Journal of Asian Studies, 25(1), 69–82
-- GILLESPIE, R. E. (1971). Whampoa And The Nanking Decade (1924-1936) (Order No. 7201718)
-- LAI, J.-H. (1976). A STUDY OF A FALTERING DEMOCRAT: THE LIFE OF SUN FO, 1891-1949
-- W. C. [蘇維初]. (1981). The Western Hills Group in the National Revolution, 1924-1928 : a study of ideology and politics within the Kuomintang. (Thesis). University of Hong Kong, Pokfulam, Hong Kong SAR
-- The Bolsheviks and the Chinese Revolution (Pantsov, 2000), p. 65-66
-- Minutes of the National Congress of the Chinese Guomindang 
-- The Nationalist Revolution in China, 1925-1928 (Wilbur, 1983), p. 18-19
-- The Inner History of the Chinese Revolution (Tang, 1930), p. 181-184
-- A Study of Xin Qingnian (New Youth) Magazine, 1915-1926 (Ma, 1974), p. 165-208
-- The "Pro" and "Anti" Communism of the Guomindang (Yang, 2016)
-- The Struggle Against the Right Wing of the Guomindang (Mao, 1924)
-- Chen Duxiu's "Revolutionary Romanticism" and the Dilemmas of the "Great Revolution" (1924-1927) (Fu, 2006), p. 43-61
-- An Unofficial History of the Revolution (Feng, 1948)
-- Chen Yuhuan 陈予欢 - 云南讲武堂将帅录 Records of Generals and Commanders of Yunnan Military Academy
-- Chen Yuhuan - 中国留学日本 陆军士官学校将帅录 Chinese Studying in Japan, Records of Generals and Commanders of Army Officer Academy (IJAA)
-- Chen Yuhuan - Records of Generals and Commander of the Army University
-- Chen Yuhuan - The Huangpu Military Academy
-- David Peter Barrett - SOCIALISM, MARXISM AND COMMUNISM IN THE THOUGHT OF HU HAN-MIN (1978)
-- Ma Pihuan and Liao Jiling - Records of the Old Guangxi Clique 老桂系纪实 (Primary Accounts)
-- Lau Yee Cheung - Hu Han-min AS cholar-Revolutionary in Contemporary China (1978)
-- Brian Kai Hin Tsui  - China’s Forgotten Revolution: Radical Conservatism in Action, 1927-1949 (2013)
+- Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64<br />
+- Shirley, J. R. (1965). Control of the Kuomintang After Sun Yat-sen’s Death. The Journal of Asian Studies, 25(1), 69–82<br />
+- GILLESPIE, R. E. (1971). Whampoa And The Nanking Decade (1924-1936) (Order No. 7201718)<br />
+- LAI, J.-H. (1976). A STUDY OF A FALTERING DEMOCRAT: THE LIFE OF SUN FO, 1891-1949<br />
+- W. C. [蘇維初]. (1981). The Western Hills Group in the National Revolution, 1924-1928 : a study of ideology and politics within the Kuomintang. (Thesis). University of Hong Kong, Pokfulam, Hong Kong SAR<br />
+- The Bolsheviks and the Chinese Revolution (Pantsov, 2000), p. 65-66<br />
+- Minutes of the National Congress of the Chinese Guomindang <br />
+- The Nationalist Revolution in China, 1925-1928 (Wilbur, 1983), p. 18-19<br />
+- The Inner History of the Chinese Revolution (Tang, 1930), p. 181-184<br />
+- A Study of Xin Qingnian (New Youth) Magazine, 1915-1926 (Ma, 1974), p. 165-208<br />
+- The "Pro" and "Anti" Communism of the Guomindang (Yang, 2016)<br />
+- The Struggle Against the Right Wing of the Guomindang (Mao, 1924)<br />
+- Chen Duxiu's "Revolutionary Romanticism" and the Dilemmas of the "Great Revolution" (1924-1927) (Fu, 2006), p. 43-61<br />
+- An Unofficial History of the Revolution (Feng, 1948)<br />
+- Chen Yuhuan 陈予欢 - 云南讲武堂将帅录 Records of Generals and Commanders of Yunnan Military Academy<br />
+- Chen Yuhuan - 中国留学日本 陆军士官学校将帅录 Chinese Studying in Japan, Records of Generals and Commanders of Army Officer Academy (IJAA)<br />
+- Chen Yuhuan - Records of Generals and Commander of the Army University<br />
+- Chen Yuhuan - The Huangpu Military Academy<br />
+- David Peter Barrett - SOCIALISM, MARXISM AND COMMUNISM IN THE THOUGHT OF HU HAN-MIN (1978)<br />
+- Ma Pihuan and Liao Jiling - Records of the Old Guangxi Clique 老桂系纪实 (Primary Accounts)<br />
+- Lau Yee Cheung - Hu Han-min AS cholar-Revolutionary in Contemporary China (1978)<br />
+- Brian Kai Hin Tsui  - China’s Forgotten Revolution: Radical Conservatism in Action, 1927-1949 (2013)<br />
+  Jerome Chen - The Highlanders of Central China: A History 1895-1937 (1992)<br />
