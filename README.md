@@ -356,3 +356,4 @@
 - Brian Kai Hin Tsui  - China’s Forgotten Revolution: Radical Conservatism in Action, 1927-1949 (2013)<br />
 - Jerome Chen - The Highlanders of Central China: A History 1895-1937 (1992)<br />
 - Chen Jiuren - Chen Jiongming Academic Research Collection, Volume II;  陈炯明学术研究文集 专辑(二)<br />
+- Karl E. Ryavec - Historical Atlas of Tibet<br />
