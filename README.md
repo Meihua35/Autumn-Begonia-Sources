@@ -270,6 +270,8 @@
 -  Tōru Saguchi - The Islamic Principality of Xinjiang Komur History of the Hami County Royal Domain <br />
 -  Zhang Lan - Zhang Lan's Collected Works<br />
 -  Israel Epstein - Woman in World History: Life and times of Soong Ching Ling <br />
+-  Chen Mingshu - Memoirs of Chen Mingshu <br />
+-  Long Shengwu - Oral History of the Son of the King of Yunnan, Long Yun <br />
 
 #### Hunan Province Sources
 - Various Authors - Changde Historical Materials Vol 2<br />
@@ -346,6 +348,7 @@
 - Chen Yuhuan - 中国留学日本 陆军士官学校将帅录 Chinese Studying in Japan, Records of Generals and Commanders of Army Officer Academy (IJAA)<br />
 - Chen Yuhuan - Records of Generals and Commander of the Army University<br />
 - Chen Yuhuan - The Huangpu Military Academy<br />
+- Various Authors - Chengzhong Historical Materials Vol 14 城中文史 (第十四辑)(Shen Hongying article) <br />
 - David Peter Barrett - SOCIALISM, MARXISM AND COMMUNISM IN THE THOUGHT OF HU HAN-MIN (1978)<br />
 - Ma Pihuan and Liao Jiling - Records of the Old Guangxi Clique 老桂系纪实 (Primary Accounts)<br />
 - Lau Yee Cheung - Hu Han-min AS cholar-Revolutionary in Contemporary China (1978)<br />
