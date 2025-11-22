@@ -272,6 +272,7 @@
 -  Israel Epstein - Woman in World History: Life and times of Soong Ching Ling <br />
 -  Chen Mingshu - Memoirs of Chen Mingshu <br />
 -  Long Shengwu - Oral History of the Son of the King of Yunnan, Long Yun <br />
+-  Zhang Xiaohui - TV Soong and Guangdong Finance during the Republican Era <br />
 
 #### Hunan Province Sources
 - Various Authors - Changde Historical Materials Vol 2<br />
