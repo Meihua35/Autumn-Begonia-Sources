@@ -198,7 +198,7 @@
 -  Andrew J. Grajdanzev - Manchuria: An Industrial Survey<br />
 -  Dmitry Petrov - An Unsuccessful Mission: The Short-Lived Alliance of the Soviet Union with Warlord Feng Yuxiang, 1925-1927
 
-###  Autumn Begonia Source Index 2<br />
+##  Autumn Begonia Source Index 2<br />
 ###  Migsey Archive<br />
 -  Chihyun Chang and Chiu-Ya Kao - Modern China’s financial obligations and strategies, 1901–1925: the depreciation of tael, the Austrian loans and the gold franc<br />
 -  Yeung Wing Yu，Hans - GUANGZHOU, 1800-1925: THE URBAN EVOLUTION OF A CHINESE PROVINCIAL CAPITAL<br />
@@ -266,7 +266,9 @@
 -  Deng Tongli - Research on the Admiralty in the early Republic of China (1912-1919)<br />
 -  Wu Yongyun - The Guangxi Comrades' Association for the Reform of Guangxi and the Guangxi Militia Uprising  <br />
 -  Deng Hanxiang - What I know about Yuan Zuming's Assassination 袁祖铭被刺见闻 (primary) <br />
-# Hunan Province Sources
+-  Seypidin Azizi - Memoirs of Seypidin Azizi <br />
+
+#### Hunan Province Sources
 - Various Authors - Changde Historical Materials Vol 2<br />
 - Hao Tianhao - Wu Peifu Withdrew the Defense Army and Zhang Jingyao's Reaction in 1920<br />
 - Hao Tianhao - Zhang Jingyao and Yuxiang Bank <br />
@@ -275,7 +277,18 @@
 - Xu Lianchu - The May Fourth Movement in Hunan<br />
 - He Wenping - On The Death of Zhou Zefan <br />
 
-##   Article/Book Links<br />
+#### Jiangxi Province Sources
+- Li Jiayan - The North South Political Struggle and the Situation in Jiangxi
+- Zhang Hanghang - A Brief Account of Reactions Following the Death of Jiangsu Governor Li Chun—A Study Based on Media Reports
+- Chen Xiaoming and Zhong Lingyun - A Brief Introduction of the Incident of the Jiujiang Mutiny
+- Lin Songhua - A Preliminary Exploration of the Jiangxi Autonomous Movement during the May Fourth Period
+- Liu Shanqing - Chen Guangyuan and the May Fourth Movement in Jiangxi
+- Li Jian - On the May Fourth Movement in Nanchang
+- Zhang Lantian - The power structure of local society in Jiangxi and the May Fourth Movement (1917-1920)
+- Various Authors - Selected Historical and Cultural Materials of Jiangxi Province, Vol. 18
+- Various Authors - Selected Historical and Cultural Materials of Jiangxi Province, Vol. 3
+
+###   Article/Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC (Historical fiction I think but I dont know which parts are ahistorical)<br />
 - https://www.arteducation.com.tw/guwen/book_301.html - Draft History of the Qing (Official ROC account of the Qing, chief editor Zhao Erxun) <br />
 - https://www.99csw.com/book/10269/index.htm - Li Zongren <br />
@@ -303,7 +316,7 @@
 - https://repository.lib.cuhk.edu.hk/en/item/cuhk-3584283 - Method in madness, hope in despair: planism and the east asian social engineering state - a general survey, 1906-1960 - Ernest Leung<br />
 - http://www.xhgmw.com/m/view.php?aid=25443 - A Brief Account of Liao Xiangyun's Yanxi Uprising <br />
   
-##    Books/Articles without Links<br />
+###    Books/Articles without Links<br />
 - Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64<br />
 - Shirley, J. R. (1965). Control of the Kuomintang After Sun Yat-sen’s Death. The Journal of Asian Studies, 25(1), 69–82<br />
 - GILLESPIE, R. E. (1971). Whampoa And The Nanking Decade (1924-1936) (Order No. 7201718)<br />
