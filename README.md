@@ -267,6 +267,9 @@
 -  Wu Yongyun - The Guangxi Comrades' Association for the Reform of Guangxi and the Guangxi Militia Uprising  <br />
 -  Deng Hanxiang - What I know about Yuan Zuming's Assassination 袁祖铭被刺见闻 (primary) <br />
 -  Seypidin Azizi - Memoirs of Seypidin Azizi <br />
+-  Tōru Saguchi - The Islamic Principality of Xinjiang Komur History of the Hami County Royal Domain <br />
+-  Zhang Lan - Zhang Lan's Collected Works<br />
+-  Israel Epstein - Woman in World History: Life and times of Soong Ching Ling <br />
 
 #### Hunan Province Sources
 - Various Authors - Changde Historical Materials Vol 2<br />
@@ -277,16 +280,24 @@
 - Xu Lianchu - The May Fourth Movement in Hunan<br />
 - He Wenping - On The Death of Zhou Zefan <br />
 
+#### Guangxi Province Sources
+- Shi Junxian - A Study of Lu Rongting's Green Forest Ideology <br />
+- Tang Ling - The Lu Rongting regime utilized both government and civilian forces in the process of economic integration among ethnic minorities in the border regions <br />
+- Zheng Weikuan - Localism: The Essential Characteristics of Lu Rongting's Lao Gui Group <br />
+- Li Zhihan - The Beginning and End of Lu Rongting's Administration of Guangxi 陆荣廷主政广西始末 <br />
+- Fan Lili - A Brief Discussion on Currency Issuance During the Period of the Old Guangxi Clique's Rule over Guangxi <br />
+- Huang Juanchao - Discussion on the Political Contributions of Lu Rongting, the Former Leader of the Guangxi Clique, During His Reign in Guangxi <br />
+
 #### Jiangxi Province Sources
-- Li Jiayan - The North South Political Struggle and the Situation in Jiangxi
-- Zhang Hanghang - A Brief Account of Reactions Following the Death of Jiangsu Governor Li Chun—A Study Based on Media Reports
-- Chen Xiaoming and Zhong Lingyun - A Brief Introduction of the Incident of the Jiujiang Mutiny
-- Lin Songhua - A Preliminary Exploration of the Jiangxi Autonomous Movement during the May Fourth Period
-- Liu Shanqing - Chen Guangyuan and the May Fourth Movement in Jiangxi
-- Li Jian - On the May Fourth Movement in Nanchang
-- Zhang Lantian - The power structure of local society in Jiangxi and the May Fourth Movement (1917-1920)
-- Various Authors - Selected Historical and Cultural Materials of Jiangxi Province, Vol. 18
-- Various Authors - Selected Historical and Cultural Materials of Jiangxi Province, Vol. 3
+- Li Jiayan - The North South Political Struggle and the Situation in Jiangxi <br />
+- Zhang Hanghang - A Brief Account of Reactions Following the Death of Jiangsu Governor Li Chun—A Study Based on Media Reports <br />
+- Chen Xiaoming and Zhong Lingyun - A Brief Introduction of the Incident of the Jiujiang Mutiny <br />
+- Lin Songhua - A Preliminary Exploration of the Jiangxi Autonomous Movement during the May Fourth Period <br />
+- Liu Shanqing - Chen Guangyuan and the May Fourth Movement in Jiangxi <br />
+- Li Jian - On the May Fourth Movement in Nanchang <br />
+- Zhang Lantian - The power structure of local society in Jiangxi and the May Fourth Movement (1917-1920) <br />
+- Various Authors - Selected Historical and Cultural Materials of Jiangxi Province, Vol. 18 <br />
+- Various Authors - Selected Historical and Cultural Materials of Jiangxi Province, Vol. 3 <br />
 
 ###   Article/Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC (Historical fiction I think but I dont know which parts are ahistorical)<br />
