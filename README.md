@@ -350,4 +350,5 @@
 - Ma Pihuan and Liao Jiling - Records of the Old Guangxi Clique 老桂系纪实 (Primary Accounts)<br />
 - Lau Yee Cheung - Hu Han-min AS cholar-Revolutionary in Contemporary China (1978)<br />
 - Brian Kai Hin Tsui  - China’s Forgotten Revolution: Radical Conservatism in Action, 1927-1949 (2013)<br />
-  Jerome Chen - The Highlanders of Central China: A History 1895-1937 (1992)<br />
+- Jerome Chen - The Highlanders of Central China: A History 1895-1937 (1992)<br />
+- Chen Jiuren - Chen Jiongming Academic Research Collection, Volume II;  陈炯明学术研究文集 专辑(二)<br />
