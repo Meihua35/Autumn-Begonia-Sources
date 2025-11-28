@@ -329,6 +329,7 @@
 - https://www.wenxuecity.com/book/?act=chapter&bookID=60533730 - The General History of Jiangxi - Volume 11 - The Republic of China Period - Zhong Qihuang <br />
 - https://repository.lib.cuhk.edu.hk/en/item/cuhk-3584283 - Method in madness, hope in despair: planism and the east asian social engineering state - a general survey, 1906-1960 - Ernest Leung<br />
 - http://www.xhgmw.com/m/view.php?aid=25443 - A Brief Account of Liao Xiangyun's Yanxi Uprising <br />
+- https://www.quanxue.cn/ls_minguo/junfaindex.html - A Discussion of Warlord Factions in the ROC - Chen Xianqing <br />
   
 ###    Books/Articles without Links<br />
 - Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64<br />
