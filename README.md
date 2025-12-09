@@ -331,6 +331,7 @@
 - http://www.xhgmw.com/m/view.php?aid=25443 - A Brief Account of Liao Xiangyun's Yanxi Uprising <br />
 - https://www.quanxue.cn/ls_minguo/junfaindex.html - A Discussion of Warlord Factions in the ROC - Chen Xianqing <br />
 - https://doosho.com/cn/293/7/5 - Biographies of Beiyang Warlords <br />
+- https://babel.hathitrust.org/cgi/pt?id=keio.10810288320&seq=1 - Modern Chinese Directory, compiled by the Ministry of Foreign Affairs' Intelligence Department (Japanese) <br />
   
 ###    Books/Articles without Links<br />
 - Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64<br />
