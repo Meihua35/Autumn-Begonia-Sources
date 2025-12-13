@@ -330,7 +330,7 @@
 - https://repository.lib.cuhk.edu.hk/en/item/cuhk-3584283 - Method in madness, hope in despair: planism and the east asian social engineering state - a general survey, 1906-1960 - Ernest Leung<br />
 - http://www.xhgmw.com/m/view.php?aid=25443 - A Brief Account of Liao Xiangyun's Yanxi Uprising <br />
 - https://www.quanxue.cn/ls_minguo/junfaindex.html - A Discussion of Warlord Factions in the ROC - Chen Xianqing <br />
-- https://doosho.com/cn/293/7/5 - Biographies of Beiyang Warlords <br />
+- https://doosho.com/cn/293/7/5 - Biographies of Beiyang Warlords 附录二北洋军阀人物志 <br />
 - https://babel.hathitrust.org/cgi/pt?id=keio.10810288320&seq=1 - Modern Chinese Directory, compiled by the Ministry of Foreign Affairs' Intelligence Department (Japanese) <br />
   
 ###    Books/Articles without Links<br />
