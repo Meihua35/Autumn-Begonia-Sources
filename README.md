@@ -354,6 +354,7 @@
 - Chen Yuhuan - The Huangpu Military Academy<br />
 - Various Authors - Chengzhong Historical Materials Vol 14 城中文史 (第十四辑)(Shen Hongying article) <br />
 - David Peter Barrett - SOCIALISM, MARXISM AND COMMUNISM IN THE THOUGHT OF HU HAN-MIN (1978)<br />
+- Lai Xinxia - History Of The Beiyang Warlords 北洋军阀史
 - Ma Pihuan and Liao Jiling - Records of the Old Guangxi Clique 老桂系纪实 (Primary Accounts)<br />
 - Lau Yee Cheung - Hu Han-min AS cholar-Revolutionary in Contemporary China (1978)<br />
 - Brian Kai Hin Tsui  - China’s Forgotten Revolution: Radical Conservatism in Action, 1927-1949 (2013)<br />
