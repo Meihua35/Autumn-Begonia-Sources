@@ -332,6 +332,7 @@
 - https://www.quanxue.cn/ls_minguo/junfaindex.html - A Discussion of Warlord Factions in the ROC - Chen Xianqing <br />
 - https://doosho.com/cn/293/7/5 - Biographies of Beiyang Warlords 附录二北洋军阀人物志 <br />
 - https://babel.hathitrust.org/cgi/pt?id=keio.10810288320&seq=1 - Modern Chinese Directory, compiled by the Ministry of Foreign Affairs' Intelligence Department (Japanese) <br />
+- https://commons.wikimedia.org/wiki/Category:%E9%99%B3%E7%82%AF%E6%98%8E%E5%8F%9B%E5%9C%8B%E5%8F%B2 - 陈炯明叛国史 History of Chen Jiongming's Treat - Only last half of the book <br />
   
 ###    Books/Articles without Links<br />
 - Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64<br />
