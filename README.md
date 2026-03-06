@@ -336,6 +336,7 @@
 - https://babel.hathitrust.org/cgi/pt?id=keio.10810288320&seq=1 - Modern Chinese Directory, compiled by the Ministry of Foreign Affairs' Intelligence Department (Japanese) <br />
 - https://commons.wikimedia.org/wiki/Category:%E9%99%B3%E7%82%AF%E6%98%8E%E5%8F%9B%E5%9C%8B%E5%8F%B2 - 陈炯明叛国史 History of Chen Jiongming's Treat - Only last half of the book <br />
 - https://archive.org/download/themicrostudios_gmail_2007/%E7%99%BD%E5%B4%87%E7%A6%A7%E5%9B%9E%E5%BF%86%E5%BD%95.pdf - Memoirs of Bai Chongxi<br />
+- https://kclpure.kcl.ac.uk/ws/portalfiles/portal/193645482/Guo_Making_Good_Government_with_Good_People_AAM.pdf - Making the "Good Government" with the "Good People": Collaboration Between General Wu Peifu and Endeavor Intellectuals, 1920–1922 - Vivenne Guo
   
 ###    Books/Articles without Links<br />
 - Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64<br />
