@@ -304,6 +304,9 @@
 - Various Authors - Selected Historical and Cultural Materials of Jiangxi Province, Vol. 18 <br />
 - Various Authors - Selected Historical and Cultural Materials of Jiangxi Province, Vol. 3 <br />
 
+###   Newspaper Database<br />
+- https://www.eastview.com/resources/gpa/crl-lqrcn/ - Does not include major newspapers like Ta Kung Pao or Shen Bao <br />
+
 ###   Article/Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC (Historical fiction I think but I dont know which parts are ahistorical)<br />
 - https://www.arteducation.com.tw/guwen/book_301.html - Draft History of the Qing (Official ROC account of the Qing, chief editor Zhao Erxun) <br />
