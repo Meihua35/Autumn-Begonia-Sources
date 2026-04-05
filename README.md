@@ -312,6 +312,7 @@
 - https://www.arteducation.com.tw/guwen/book_301.html - Draft History of the Qing (Official ROC account of the Qing, chief editor Zhao Erxun) <br />
 - https://www.99csw.com/book/10269/index.htm - Li Zongren <br />
 - http://jds.cass.cn/xsqk/jdszl/qwty_128770/ - Modern Historical Materials - A huge archive of primary sources; letters, telegrams, memoirs etc. <br />
+- http://jds.cssn.cn/xsqk/jdszl/bkxx_128769/201605/t20160506_5254890.shtml - The Index for materials in the above<br />
 - https://archive.org/details/10481261_qq/mode/2up - 文史资料选辑总目录 General Catalogue of Selected Literature and History Materials - Catalogue of what issue of the book series contains, use this to find which volume you need. <br />
 - https://archive.org/details/pekingpolitics190000nath/page/n5/mode/2up - Peking Politics - Andrew J Nathan <br />
 - https://drive.google.com/file/d/1m8_jIlLQ8CDmCQZj7f7QbDBJ_kVUfDI1/view - Factionalism in Early Republican China - Andrew J Nathan <br />
