@@ -342,6 +342,7 @@
 - https://archive.org/download/themicrostudios_gmail_2007/%E7%99%BD%E5%B4%87%E7%A6%A7%E5%9B%9E%E5%BF%86%E5%BD%95.pdf - Memoirs of Bai Chongxi<br />
 - https://kclpure.kcl.ac.uk/ws/portalfiles/portal/193645482/Guo_Making_Good_Government_with_Good_People_AAM.pdf - Making the "Good Government" with the "Good People": Collaboration Between General Wu Peifu and Endeavor Intellectuals, 1920–1922 - Vivenne Guo
 - https://revistabloch.uanl.mx/index.php/b/article/view/197/188 - Reflections on Warlord Era (1916-1931) (ES) - Rodrigo Garza <br />
+- https://www.krzzjn.com/uploadfile/2020/0915/20200915105601907.pdf - Zhou Zhongche's Works (Draft telegrams and such created by Tang Jiyao's Secretary)<br />
 
   
 ###    Books/Articles without Links<br />
