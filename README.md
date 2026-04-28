@@ -343,7 +343,7 @@
 - https://kclpure.kcl.ac.uk/ws/portalfiles/portal/193645482/Guo_Making_Good_Government_with_Good_People_AAM.pdf - Making the "Good Government" with the "Good People": Collaboration Between General Wu Peifu and Endeavor Intellectuals, 1920–1922 - Vivenne Guo
 - https://revistabloch.uanl.mx/index.php/b/article/view/197/188 - Reflections on Warlord Era (1916-1931) (ES) - Rodrigo Garza <br />
 - https://www.krzzjn.com/uploadfile/2020/0915/20200915105601907.pdf - Zhou Zhongche's Works (Draft telegrams and such created by Tang Jiyao's Secretary)<br />
-
+- https://upload.wikimedia.org/wikipedia/commons/6/64/NLC511-027032013010040-20905_%E5%AE%89%E7%A6%8F%E9%83%A8.pdf - History of the Anfu Club published Aug 1920 anonymously <br />
   
 ###    Books/Articles without Links<br />
 - Barrett, D. P. (1982). The Role of Hu Hanmin in the “First United Front”: 1922–27. The China Quarterly (London), 89(89), 34–64<br />
