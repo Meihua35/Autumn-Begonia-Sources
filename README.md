@@ -275,6 +275,7 @@
 -  Zhang Xiaohui - TV Soong and Guangdong Finance during the Republican Era <br />
 -  Various Authors (Luo Yiqun, Peng Zhifang, Gong Zhilu notable) - Guangzhou Historical Materials Vol 4 1961 <br />
 -  Original Period Correspondence - Compilation of Historical Materials on the Constitutional Protection Movement, Vol 4 <br />
+-  Gansu Historical Materials Index for Volumes 1-10 <br />
 
 #### Hunan Province Sources
 - Various Authors - Changde Historical Materials Vol 2<br />
