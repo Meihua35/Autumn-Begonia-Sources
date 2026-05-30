@@ -307,6 +307,10 @@
 
 ###   Newspaper Database<br />
 - https://www.eastview.com/resources/gpa/crl-lqrcn/ - Does not include major newspapers like Ta Kung Pao or Shen Bao <br />
+- http://fanyun.cepiec.com.cn/ - Has big newspapers but need to create an account to be able to search. Cannot access copies without purchasing <br />
+- https://archive.org/search?query=subject%3A%22%E5%BB%A3%E5%B7%9E%E6%B0%91%E5%9C%8B%E6%97%A5%E5%A0%B1%22 - Minguo Ribao Guangzhou Edition <br />
+- https://archive.org/details/shenbao-archive - Shen Bao Archive<br />
+- https://archive.org/details/guowen-zhoubao-archive - Guowen Zhoubao Archive <br />
 
 ###   Article/Book Links<br />
 - http://www.guoxue123.com/xiaosuo/0000/mg/index.htm - Romance of the RoC (Historical fiction I think but I dont know which parts are ahistorical)<br />
